@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![cooltext386710987420210](https://user-images.githubusercontent.com/75569106/122066620-937f2200-cdfb-11eb-8c59-61b6977bd0f0.gif)
+
+
+
+
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)

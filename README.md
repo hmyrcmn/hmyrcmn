@@ -29,5 +29,13 @@ GitHub hesabımda, yukarıda bahsettiğim konularda geliştirdiğim projeleri pa
 Gelecekte, sektördeki en yeni teknolojileri kullanarak, geliştirdiğim projelerle kendimi daha da ileriye taşımayı hedefliyorum.
 
 
+Hello, my name is Hümeyra Çimen. I am a computer engineering student and I constantly strive to improve myself in this field. I work on Data Science, Unity, and AI and I am developing my expertise in these areas. In the future, I aim to work on implementing the best practices in the industry.
+
+Recently, I have been working on DATA and I continue to develop various projects on the Unity game engine, utilizing my experience in game development. Through these projects, I have improved my programming, animation, and design skills used in the game development process. Feedback on the projects I have developed helps me to constantly improve myself. In the future, I aim to develop ambitious projects in the game world, using the latest technologies in the industry.
+
+Additionally, I have experience in web development and I have worked on various projects in this field. My programming skills include languages such as C++, Python, and Java, as well as web development tools such as HTML, CSS, and JavaScript.
+
+I am committed to pursuing a career that challenges me to continue to grow and develop my skills, and I believe that my experience and skills make me a valuable addition to any team.
+
 
 [![hümeyra çimen's github stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)

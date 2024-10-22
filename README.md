@@ -27,8 +27,12 @@ Son zamanlarda, DATA alanında çalışmalar yürütüyorum ve oyun geliştirme 
 
 <br>
 <br>
-Buradan [CV'mi indirebilirsiniz](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimenCV.pdf).
+>Buradan [CV'mi indirebilirsiniz](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimenCV.pdf).
 
+<br>
+<br>
+
+<br>
 
 [![hümeyra çimen's github stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

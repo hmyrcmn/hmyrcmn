@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 Merhaba, ben Hümeyra Çimen. Bilgisayar mühendisliği öğrencisiyim ve sürekli kendimi geliştirerek bu alanda ilerlemeyi hedefliyorum. DATA, Unity ve AI konularında çalışmalar yaparak bilgi ve deneyimlerimi artırıyorum.
 Son zamanlarda, DATA alanında çalışmalar yürütüyorum ve oyun geliştirme alanındaki deneyimlerimden faydalanarak Unity oyun motoru üzerinde farklı projeler geliştiriyorum. Bu projeler, programlama, animasyon ve tasarım tekniklerimi daha da geliştirmeme yardımcı oluyor ve geri bildirimler alarak kendimi sürekli geliştiriyorum. Gelecekte, sektördeki en yeni teknolojileri kullanarak yaratıcı projelere imza atmayı hedefliyorum.
+Buradan [CV'mi indirebilirsiniz](https://github.com/hmyrcmn/hmyrcmn/raw/main/cv.pdf).
 
 
 [![hümeyra çimen's github stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)

@@ -27,7 +27,7 @@ Son zamanlarda, DATA alanında çalışmalar yürütüyorum ve oyun geliştirme 
 
 <br>
 <br>
-!Buradan [CV'mi indirebilirsiniz](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimenCV.pdf).
+!Buradan [CV'mi indirebilirsiniz](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimen__ComputerEngineer.pdf).
 
 <br>
 <br>

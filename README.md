@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm **Hümeyra Çimen**
 
 ![cooltext386710987420210](https://user-images.githubusercontent.com/75569106/122066620-937f2200-cdfb-11eb-8c59-61b6977bd0f0.gif)
-![PROFILE](https://cdn-images-1.medium.com/max/960/1*WFYSABb0f4BUledj_OGIzw.png)
+##![PROFILE](https://cdn-images-1.medium.com/max/960/1*WFYSABb0f4BUledj_OGIzw.png)
 
 ---
 

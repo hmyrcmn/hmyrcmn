@@ -181,11 +181,20 @@ Participated in AI bootcamps and supported teams developing artificial-intellige
 
 ## 📊 GitHub Stats
 
-![Hümeyra Çimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmyrcmn&layout=compact&hide_border=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hmyrcmn&show_icons=true"
+    alt="Hümeyra Çimen's GitHub Stats"
+  />
+</p>
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmyrcmn&layout=compact"
+    alt="Top Languages"
+  />
+</p>
 
 ## 🤝 Connect With Me
 

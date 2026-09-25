@@ -1,56 +1,198 @@
-### 👋 Hi there, I'm **Hümeyra Çimen**
+# Hi, I'm Hümeyra Çimen 👋
 
-![cooltext386710987420210](https://user-images.githubusercontent.com/75569106/122066620-937f2200-cdfb-11eb-8c59-61b6977bd0f0.gif)
-##![PROFILE](https://cdn-images-1.medium.com/max/960/1*WFYSABb0f4BUledj_OGIzw.png)
+### Computer Engineer | Software • Artificial Intelligence • IT Infrastructure
 
----
+I'm a **Computer Engineer** focused on building intelligent, scalable, and production-ready software systems.
 
-🎯 **About Me**
+My experience spans **Artificial Intelligence, Full-Stack Development, IT Infrastructure, DevOps, Computer Vision, Robotics, and Intelligent Systems**.
 
-I’m an **AI and Robotics Engineer** specialized in **Deep Learning, Computer Vision, NLP, and Embedded Systems**.  
-My goal is to develop **human-centered intelligent and autonomous technologies** that integrate perception, learning, and decision-making.
+I enjoy working across the complete lifecycle of a product — from designing AI models and backend architectures to deploying applications on Linux servers and integrating enterprise authentication systems.
 
-I have combined **academic research** with **industrial R&D** projects to apply AI algorithms to real-world systems.
+Currently, I work on **enterprise software and IT infrastructure projects at Yunus Emre Institute**, developing internal platforms, authentication systems, integrations, and production infrastructure.
 
 ---
 
-💡 **Projects & Research Highlights**
+## 🚀 What I Work On
 
-- 🤖 **AI-Powered CV Analysis Project** – Developed a **BERT-based NLP model** in collaboration with **Boğaziçi University** and **TÜBİTAK**, designed to semantically match job posts and CVs to reduce bias in recruitment.  
-- 🧠 **Hygiene Detection System (YOLOv11)** – Built a real-time AI vision system for **KUL Elektronik** under a **T.C. Ministry of Agriculture** certified R&D project, detecting mask, gloves, bonnet, and hand hygiene with IoT data integration.  
-- 🔌 **Smart Plug & Voice Assistant** – Combined **IoT** and **mobile technologies** for remote energy control and monitoring.  
-- 🦾 **Biorobotic Hand Project** – Designed a **sensor-fusion-based adaptive control system** for gesture recognition using reinforcement learning and LSTM-based gait optimization.  
-- 🚀 **T3AI Hackathon (2024)** – Led a team developing **Transformer-based NLP models** for text analytics and information extraction.  
-- 🌊 **Teknofest MATRO Underwater Vehicle** – Led software and sensor integration for embedded systems and motor control.
-
----
-
-🛠 **Technical Skills**
-
-**AI & ML:** PyTorch, TensorFlow, YOLOv11, BERT, OpenCV, LSTM, Transformers  
-**Programming:** Python, C, C#, Java, JavaScript, PHP, SQL  
-**Web/Mobile:** Django, SvelteKit, Tailwind CSS, Flutter  
-**Hardware & Embedded:** Arduino, ODrive, Sensor Fusion, IoT Integration  
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision & Deep Learning
+- 🧠 Intelligent & Autonomous Systems
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend Architecture & REST APIs
+- 🐳 Dockerized Applications & DevOps
+- 🐧 Linux Server Administration
+- 🔐 LDAP / Active Directory Integration
+- 🌍 Nginx, Networking & Infrastructure
+- 🦾 Robotics, IoT & Sensor-Based Systems
 
 ---
 
-🏅 **Achievements**
+## 💼 Experience Highlights
 
-- Projects recognized by **TÜBİTAK**, **Marmara University**, and **Ministry of Agriculture**  
-- Active participant in **Teknofest** and **T3AI Hackathon**  
-- Leader in cross-disciplinary R&D teams combining AI, robotics, and embedded systems  
+### 🏛️ Yunus Emre Institute — Software Developer
+`Dec 2025 – Present`
+
+Developing and maintaining enterprise applications and IT infrastructure, including:
+
+- Dynamic QR code generation and management platforms
+- Authorization-controlled Zoom meeting management systems
+- Enterprise license management applications
+- LDAP / Active Directory authentication and authorization
+- Electronic signature platforms
+- Institutional management system integrations
+- Detailed audit and logging infrastructures
+- Cloudflare integrations
+- Dockerized application environments
+- Linux server deployment and administration
+- Nginx reverse proxy and production configuration
+- Database integration and system modernization
 
 ---
 
-📄 [**Download My CV**](https://github.com/hmyrcmn/PORTFOLIO/blob/main/HumeyraCimen__ComputerEngineer.pdf)  
-🎮 [**View My Games on Simmer.io**](https://simmer.io/@humeyracimen)
+### 🧠 KUL Elektronik — AI Developer
+`Oct 2023 – Nov 2025`
+
+Worked on industrial AI, robotics, computer vision, and intelligent product development.
+
+- Real-time deep-learning-based hygiene monitoring
+- AI-supported predictive fault detection using vehicle sensor data
+- AI-assisted robotic arm control
+- Voice-controlled Lyra Power Hub mobile application
+- STT → LLM-based intent analysis → TTS pipelines
+- AI-powered conversational systems
+- Deep-learning projects developed within industrial R&D collaborations
 
 ---
 
-📊 **GitHub Stats**
+## 🧩 Selected Projects
 
-[![Hümeyra Çimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 AI-Based Hygiene Monitoring
+
+Developed a deep-learning computer vision system capable of identifying compliant and non-compliant hygiene behaviors in real time for industrial environments.
+
+`Computer Vision` `Deep Learning` `YOLO` `Python`
 
 ---
 
-🌱 *“Combining intelligence and motion — building the bridge between AI and Robotics.”*
+### 🦾 Intelligent Robotic Systems
+
+Worked on AI-supported control approaches for robotic systems using sensor and motion data.
+
+`Robotics` `AI` `Sensor Processing` `Control Systems`
+
+---
+
+### 🗣️ Lyra Power Hub — Voice Assistant
+
+Developed a Flutter-based voice interaction workflow combining:
+
+**Speech-to-Text → LLM-based Intent Analysis → Text-to-Speech**
+
+for intelligent device control.
+
+`Flutter` `AI` `STT` `LLM` `TTS` `IoT`
+
+---
+
+### 🏢 Enterprise Meeting Management Platform
+
+Developed an internal web-based system for creating, scheduling, and managing Zoom meetings with authorization-controlled enterprise access.
+
+`Backend` `REST API` `Authentication` `Enterprise Software`
+
+---
+
+### 🔐 Enterprise Authentication & Infrastructure
+
+Developing enterprise systems integrating:
+
+**LDAP • Active Directory • Authentication • Authorization • Docker • Linux • Nginx**
+
+for secure institutional applications.
+
+---
+
+### 🌊 MATRO Teknofest Underwater Vehicle
+
+Served as **Software Team Leader**, leading software development for an underwater vehicle with a focus on device communication, motor control, and system integration.
+
+`Embedded Systems` `Motor Control` `Team Leadership`
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Artificial Intelligence
+
+`Python` `PyTorch` `TensorFlow` `YOLO` `OpenCV`  
+`Deep Learning` `Machine Learning` `Computer Vision`  
+`Data Analysis` `Signal & Sensor Processing`
+
+### 💻 Backend & Software
+
+`Python` `C` `C#` `Java` `PHP`  
+`JavaScript` `TypeScript` `SQL`
+
+### 🌐 Web & Application Development
+
+`Laravel` `SvelteKit` `React Native`  
+`REST API` `Backend Development` `Full-Stack Development`
+
+### ⚙️ Infrastructure & DevOps
+
+`Docker` `Linux` `Nginx` `Git` `GitHub` `CI/CD`  
+`Cloudflare` `Active Directory` `LDAP`
+
+### 🌍 Networking
+
+`DNS` `DHCP` `VPN` `Firewall`  
+`Network & System Administration`
+
+---
+
+## 🎓 Education
+
+### Bursa Technical University
+
+**B.Sc. in Computer Engineering**  
+`2019 – 2024`
+
+**GPA:** `3.25 / 4.00`
+
+My graduation project was developed with academic guidance and knowledge contribution from **Boğaziçi University**.
+
+---
+
+## 🏆 Leadership & Community
+
+### 🌊 MATRO Teknofest Underwater Vehicle Team
+
+**Software Team Leader**
+
+Led software development, device integration, motor control, and team coordination for an underwater vehicle project.
+
+### 🌍 Global AI Hub
+
+**Core Member & Global Mentor**
+
+Participated in AI bootcamps and supported teams developing artificial-intelligence-based projects.
+
+---
+
+## 📊 GitHub Stats
+
+![Hümeyra Çimen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmyrcmn&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hmyrcmn&layout=compact&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hümeyra%20Çimen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmyrcmn)
+
+[![GitHub](https://img.shields.io/badge/GitHub-hmyrcmn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hmyrcmn)
+
+---
+
+### 💡 Building intelligent systems from AI models to production infrastructure.

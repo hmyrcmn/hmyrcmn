@@ -179,21 +179,15 @@ Participated in AI bootcamps and supported teams developing artificial-intellige
 
 ---
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hmyrcmn&show_icons=true"
-    alt="Hümeyra Çimen's GitHub Stats"
-  />
-</p>
+Explore my repositories, projects and contributions on GitHub.
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmyrcmn&layout=compact"
-    alt="Top Languages"
-  />
+  <a href="https://github.com/hmyrcmn?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ## 🤝 Connect With Me
